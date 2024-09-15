@@ -18,4 +18,5 @@ void loop() {
   
   // Wait for 1 second
   delay(1000);
+  delay(2000);
 }
