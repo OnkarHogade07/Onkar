@@ -21,4 +21,6 @@ void loop() {
   delay(1000);
   delay(2000);
   delay(3000);
+  digital(4000);
+  digi(2000);
 }
